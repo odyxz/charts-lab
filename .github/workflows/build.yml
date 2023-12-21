@@ -10,8 +10,8 @@ on:
 
 env:
   REGISTRY_URL: ghcr.io
-  REGISTRY_USERNAME: 1k-off
-  SERVICE_NAME: khai-courses/lab-argo
+  REGISTRY_USERNAME: odyxz
+  SERVICE_NAME: charts-lab
 
 jobs:
   build:
