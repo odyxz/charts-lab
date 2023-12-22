@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: ghcr.io/odyxz/khai-courses/lab-argo
   pullPolicy: IfNotPresent
-  tag: 0.0.27
+  tag: 0.0.28
 imagePullSecrets: []
 nameOverride: ''
 fullnameOverride: ''
