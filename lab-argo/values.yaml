@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: ghcr.io/1k-off/khai-courses/lab-argo
+  repository: ghcr.io/odyxz/khai-courses/lab-argo
   pullPolicy: IfNotPresent
   tag: 0.0.25
 imagePullSecrets: []
